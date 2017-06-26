@@ -1,0 +1,23 @@
+{
+  "matter": {
+    "name": "portfolio-3",
+    "title": "Porfolio of Aulus Agerius",
+    "link": "http://www.aulo-agerio.net/"
+  },
+  "people": [{
+      "name": "Aulus Agerius",
+      "role": "owner",
+      "link": "http://www.aulo-agerio.net/"
+    },
+    {
+      "name": "Numerius Negidius",
+      "role": "author",
+      "link": "http://www.numerium-negidium.net/"
+    }
+  ],
+  "release": {
+    "version": "3.2.1",
+    "pubdate": "2017-06-22"
+  },
+  "license": "CC-BY-4.0"
+}
