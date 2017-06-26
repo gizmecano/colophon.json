@@ -1,0 +1,13 @@
+# set the default behavior
+* text=auto
+
+# Ignore specific files when using export
+.gitattributes export-ignore
+.gitignore export-ignore
+
+# source code
+*.json text
+
+# documentation
+*.md text
+LICENSE text
